@@ -1,1 +1,2 @@
-# HNG-7.0
+# HNG-7.0 repository
+Obaji Chukwuemeka
